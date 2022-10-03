@@ -1,3 +1,9 @@
+## What am I working on
+- [ ] Replacing `#` on Navbar menu links with proper links
+- [x] Navbar
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
